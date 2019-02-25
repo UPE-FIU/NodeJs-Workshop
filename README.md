@@ -1,13 +1,13 @@
 # Software Needed for the workshop
 
-##Node.JS (LTS Version)
+## Node.JS (LTS Version)
 https://nodejs.org/en/
 
-MongoDB Community Server
+## MongoDB Community Server
 https://www.mongodb.com/download-center/community
 
-##MongoDB Compass
+## MongoDB Compass
 https://www.mongodb.com/download-center/compass?jmp=hero
 
-##Postman
+## Postman
 https://www.getpostman.com/downloads/
